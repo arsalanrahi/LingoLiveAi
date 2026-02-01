@@ -1,0 +1,7 @@
+{
+  "name": "LingoLive AI",
+  "description": "A high-performance language learning application featuring a real-time conversational AI partner. Practice speaking in multiple languages with adaptive role-play scenarios and instant feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
